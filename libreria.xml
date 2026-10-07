@@ -1,0 +1,68 @@
+<libreria>
+  <libro id="1">
+    <anio>1943</anio>
+    <autor>Antoine de Saint-Exupéry</autor>
+    <precio>15.99</precio>
+    <titulo>El Principito</titulo>
+  </libro>
+  <libro id="2">
+    <anio>1949</anio>
+    <autor>George Orwell</autor>
+    <precio>12.5</precio>
+    <titulo>1984</titulo>
+  </libro>
+  <libro id="3">
+    <anio>1967</anio>
+    <autor>Gabriel García Márquez</autor>
+    <precio>18.0</precio>
+    <titulo>Cien años de soledad</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Jaba Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+  <libro id="5">
+    <anio>2026</anio>
+    <autor>Francisco</autor>
+    <precio>15.0</precio>
+    <titulo>Aprender Java Avanzado</titulo>
+  </libro>
+</libreria>
